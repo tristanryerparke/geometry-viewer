@@ -1,0 +1,1 @@
+1. Do not run commands like bun run dev or bun run build, those are commands for the user to run.
